@@ -1,0 +1,6 @@
+group,patients_meeting_criteria,without_ckd_code,pct_without_code,ci_95
+Patients in the dataset,100,,,
+Patients with any creatinine,100,,,
+Meets KDIGO lab criteria (any setting),20,5,25,11.2 to 46.9
+"Meets KDIGO, age 65+ at anchor",12,4,33.3,13.8 to 60.9
+Meets revalidation hybrid (outpatient only),11,2,18.2,5.1 to 47.7

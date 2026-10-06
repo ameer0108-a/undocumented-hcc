@@ -1,0 +1,6 @@
+scenario,pairs,concordant,discordant,pct,t1_disagree,t2_disagree,t3_disagree,missing_rows
+calibrated,78084,78084,0,100,0,0,0,0
+model_complete,78084,78084,0,100,0,0,0,0
+raw,78084,78084,0,100,0,0,0,0
+sens_egfr_sd10,78084,78084,0,100,0,0,0,0
+sens_egfr_sd20,78084,78084,0,100,0,0,0,0

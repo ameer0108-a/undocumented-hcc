@@ -1,0 +1,11 @@
+# Synthea jar and generated batches (regenerate with scripts/build_database.sh)
+synthea/
+# MIMIC data never goes in the repo
+mimic/data/
+# R and editor leftovers
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+.DS_Store
+output/logs/

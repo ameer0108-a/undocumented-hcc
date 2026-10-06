@@ -1,0 +1,4 @@
+step,description,n
+1,"Synthetic patients generated (alive, NC, ages 65-100 requested)",20000
+2,Age 65 or older on the index date,19523
+3,And at least one encounter in the two-year window,19521

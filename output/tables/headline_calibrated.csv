@@ -1,0 +1,10 @@
+family,tier,alerts,alerts_per_100,ppv,sensitivity,pct_raf_recovered,false_raf
+All 4 HCCs,Single lab,4423,22.7,0.43 (0.42 to 0.45),0.89 (0.87 to 0.90),91.1,426.9
+All 4 HCCs,Guideline (ADA/KDIGO),2303,11.8,0.74 (0.72 to 0.75),0.79 (0.77 to 0.80),82.5,89.4
+All 4 HCCs,Revalidation hybrid,2371,12.1,0.75 (0.73 to 0.77),0.83 (0.81 to 0.84),86.2,89.9
+CKD,Single lab,2936,15,0.37 (0.35 to 0.39),1.00 (0.99 to 1.00),100,317.1
+CKD,Guideline (ADA/KDIGO),1479,7.6,0.73 (0.71 to 0.75),1.00 (0.99 to 1.00),98.8,54
+CKD,Revalidation hybrid,1234,6.3,0.84 (0.82 to 0.86),0.96 (0.94 to 0.97),96.8,24.6
+DM,Single lab,1487,7.6,0.56 (0.53 to 0.58),0.77 (0.75 to 0.80),77.4,109.7
+DM,Guideline (ADA/KDIGO),824,4.2,0.74 (0.71 to 0.77),0.57 (0.54 to 0.60),57.3,35.4
+DM,Revalidation hybrid,1137,5.8,0.65 (0.63 to 0.68),0.70 (0.67 to 0.72),69.7,65.2

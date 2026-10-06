@@ -1,0 +1,103 @@
+snomed_code,description,n_records,share_open
+414545008,Ischemic heart disease (disorder),14145,1
+271737000,Anemia (disorder),11212,0.996
+59621000,Essential hypertension (disorder),9897,1
+237602007,Metabolic syndrome X (disorder),7648,1
+37320007,Loss of teeth (disorder),7625,1
+40055000,Chronic sinusitis (disorder),7248,0.984
+55822004,Hyperlipidemia (disorder),7003,1
+127013003,Disorder of kidney due to diabetes mellitus (disorder),5839,1
+64859006,Osteoporosis (disorder),5751,1
+90781000119102,Microalbuminuria due to type 2 diabetes mellitus (disorder),5278,1
+431855005,Chronic kidney disease stage 1 (disorder),5042,0.821
+431856006,Chronic kidney disease stage 2 (disorder),4546,0.789
+157141000119108,Proteinuria due to type 2 diabetes mellitus (disorder),4062,1
+302870006,Hypertriglyceridemia (disorder),3985,1
+44054006,Diabetes mellitus type 2 (disorder),3947,1
+433144002,Chronic kidney disease stage 3 (disorder),3187,0.696
+26929004,Alzheimer's disease (disorder),2451,1
+239873007,Osteoarthritis of knee (disorder),2433,1
+401314000,Acute non-ST segment elevation myocardial infarction (disorder),2244,1
+6525002,Dependent drug abuse (disorder),2116,1
+80394007,Hyperglycemia (disorder),1905,1
+124171000119105,Chronic intractable migraine without aura (disorder),1830,1
+196416002,Impacted molars (disorder),1810,1
+39898005,Sleep disorder (disorder),1777,1
+401303003,Acute ST segment elevation myocardial infarction (disorder),1708,1
+368581000119106,Neuropathy due to type 2 diabetes mellitus (disorder),1641,1
+197927001,Recurrent urinary tract infection (disorder),1351,1
+713197008,Recurrent rectal polyp (disorder),1312,0.82
+78275009,Obstructive sleep apnea syndrome (disorder),1196,1
+49436004,Atrial fibrillation (disorder),1052,1
+201834006,Localized  primary osteoarthritis of the hand (disorder),1023,1
+254837009,Malignant neoplasm of breast (disorder),961,1
+91302008,Sepsis (disorder),958,1
+126906006,Neoplasm of prostate (disorder),956,1
+92691004,Carcinoma in situ of prostate (disorder),943,1
+239872002,Osteoarthritis of hip (disorder),872,1
+60573004,Aortic valve stenosis (disorder),830,1
+128613002,Seizure disorder (disorder),624,1
+83664006,Idiopathic atrophic hypothyroidism (disorder),591,1
+73430006,Sleep apnea (disorder),581,1
+203082005,Fibromyalgia (disorder),579,1
+203646004,Adolescent idiopathic scoliosis (disorder),564,1
+195967001,Asthma (disorder),490,1
+87433001,Pulmonary emphysema (disorder),388,1
+48724000,Mitral valve regurgitation (disorder),380,1
+84757009,Epilepsy (disorder),344,1
+46177005,End-stage renal disease (disorder),327,0.584
+60234000,Aortic valve regurgitation (disorder),293,1
+88805009,Chronic congestive heart failure (disorder),289,1
+185086009,Chronic obstructive bronchitis (disorder),288,1
+93143009,Leukemia  disease (disorder),256,1
+4557003,Preinfarction syndrome (disorder),240,1
+97331000119101,Macular edema and retinopathy due to type 2 diabetes mellitus (disorder),219,1
+427419006,Transformed migraine (disorder),206,1
+7200002,Alcoholism (disorder),206,1
+127294003,Traumatic or nontraumatic brain injury (disorder),177,1
+76571007,Septic shock (disorder),164,0.915
+95417003,Primary fibromyalgia syndrome (disorder),162,1
+109989006,Multiple myeloma (disorder),144,1
+69896004,Rheumatoid arthritis (disorder),112,0.813
+6072007,Bleeding from anus (disorder),91,1
+370143000,Major depressive disorder (disorder),85,1
+111287006,Tricuspid valve regurgitation (disorder),72,1
+128188000,Cerebral palsy (disorder),68,1
+230265002,Familial Alzheimer's disease of early onset (disorder),65,1
+67782005,Acute respiratory distress syndrome (disorder),56,0.911
+56786000,Pulmonic valve stenosis (disorder),55,1
+235595009,Gastroesophageal reflux disease (disorder),52,1
+79619009,Mitral valve stenosis (disorder),45,1
+110359009,Intellectual disability (disorder),37,1
+24079001,Atopic dermatitis (disorder),36,1
+254637007,Non-small cell lung cancer (disorder),34,1
+424132000,Non-small cell carcinoma of lung  TNM stage 1 (disorder),34,1
+60951000119105,Blindness due to type 2 diabetes mellitus (disorder),29,1
+53827007,Excessive salivation (disorder),29,1
+698754002,Chronic paralysis due to lesion of spinal cord (disorder),28,1
+94503003,Metastatic malignant neoplasm to prostate (disorder),19,1
+86406008,Human immunodeficiency virus infection (disorder),18,1
+157265008,Dislocation of hip joint (disorder),17,1
+15802004,Dystonia (disorder),15,1
+91434003,Pulmonic valve regurgitation (disorder),15,1
+127295002,Traumatic brain injury (disorder),14,1
+27942005,Shock (disorder),10,1
+49915006,Tricuspid valve stenosis (disorder),8,1
+128302006,Chronic hepatitis C (disorder),7,1
+200936003,Lupus erythematosus (disorder),6,1
+67811000119102,Primary small cell malignant neoplasm of lung  TNM stage 1 (disorder),5,1
+254632001,Small cell carcinoma of lung (disorder),5,1
+76916001,Spina bifida occulta (disorder),4,1
+414667000,Meningomyelocele (disorder),3,1
+68566005,Urinary tract infectious disease (disorder),3,1
+61977001,Chronic type B viral hepatitis (disorder),3,1
+1163220007,Pressure injury stage II (disorder),3,1
+302297009,Congenital deformity of foot (disorder),3,1
+267064002,Retention of urine (disorder),2,1
+62479008,Acquired immune deficiency syndrome (disorder),2,1
+87628006,Bacterial infectious disease (disorder),2,1
+373587001,Chiari malformation type II (disorder),2,1
+171131006,Meningocele (disorder),1,1
+230745008,Hydrocephalus (disorder),1,1
+298382003,Scoliosis deformity of spine (disorder),1,1
+414564002,Kyphosis deformity of spine (disorder),1,1

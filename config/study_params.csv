@@ -1,0 +1,19 @@
+key,value,source_or_reason
+index_date,2025-12-31,last day of measurement year 2025 (dates of service that feed payment year 2026 under V28)
+window_start,2024-01-01,two-year lab lookback ending on the index date
+measurement_year_start,2025-01-01,a condition counts as documented if it is active at any point in 2025
+min_age,65,Medicare age
+a1c_threshold,6.5,ADA Standards of Care diagnostic cutoff (percent)
+egfr_threshold,60,KDIGO GFR category G3a starts below 60 mL/min/1.73m2
+kdigo_min_days,90,KDIGO chronicity: abnormal for more than 3 months
+uacr_threshold,30,KDIGO albuminuria category A2 starts at 30 mg/g
+mask_rate_dm,0.276,CDC National Diabetes Statistics Report (Sept 2026): 27.6 percent of adults with diabetes undiagnosed
+mask_rate_ckd,0.51,CMS OMH Data Highlight No. 20 (2020): 49 percent of lab-identified stage 3 CKD had a diagnosis code
+seed,20251231,one seed for masking and the lab model so every run matches
+a1c_cv_nodm,0.017,Gough et al. 2023 PLOS ONE: within-subject CV of HbA1c in people without diabetes
+a1c_cv_dm,0.083,Gough et al. 2023 PLOS ONE: within-subject CV of HbA1c in type 2 diabetes
+cr_cv,0.0512,Thoni et al. 2022 Front Med: creatinine CVI 5.0 percent combined with 1.1 percent analytical CV
+aki_prob,0.216,Susantitaphong et al. 2013 CJASN: about 1 in 5 hospitalized adults develop AKI
+target_a1c_testing_dm,0.833,Yasaitis et al. 2014 PLOS ONE: 83.3 percent of diabetic Medicare beneficiaries had an HbA1c test in the year
+target_egfr_testing_dm,0.836,Alfego et al. 2021 Diabetes Care: 83.6 percent of patients with diabetes had eGFR testing
+target_uacr_testing_dm,0.422,USRDS 2019 Annual Data Report via Alfego et al. 2021: 42.2 percent of Medicare patients with diabetes had uACR testing

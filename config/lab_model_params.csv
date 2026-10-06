@@ -1,0 +1,25 @@
+key,value,source_or_reason
+a1c_dm_median,6.95,set so about half of true diabetics sit under 7 percent (Fang et al. 2021 NEJM: 50.5 percent of US adults with diagnosed diabetes under 7 percent in 2015-2018)
+a1c_dm_logsd,0.16,spread on the log scale; gives about 34 percent under 6.5 and about 5 percent at 9 or higher
+a1c_pre_low,5.7,ADA prediabetes range lower bound
+a1c_pre_high,6.4,ADA prediabetes range upper bound
+a1c_norm_low,4.8,assumption: normal range for adults without diabetes
+a1c_norm_high,5.6,ADA normal is below 5.7
+egfr_nockd_floor,60,people without CKD stage 3 or worse are G1 or G2 by definition
+egfr_nockd_halfnormal_sd,15,assumption: puts about half of older adults without CKD between 60 and 70; tested in a sensitivity run
+egfr_cap,120,upper cap for the latent eGFR
+ckd3a_share,0.70,assumption: stage 3a is more common than 3b in population surveys; Synthea does not separate them
+egfr_g1_low,90,KDIGO G1
+egfr_g1_high,110,upper bound used for coded stage 1
+egfr_g2_low,60,KDIGO G2
+egfr_g2_high,89.9,KDIGO G2
+egfr_g3a_low,45,KDIGO G3a
+egfr_g3a_high,59.9,KDIGO G3a
+egfr_g3b_low,30,KDIGO G3b
+egfr_g3b_high,44.9,KDIGO G3b
+egfr_g4_low,15,KDIGO G4
+egfr_g4_high,29.9,KDIGO G4
+egfr_g5_low,5,KDIGO G5
+egfr_g5_high,14.9,KDIGO G5
+aki_mult_low,1.5,KDIGO AKI stage 1 starts at 1.5 times baseline creatinine
+aki_mult_high,3.0,KDIGO AKI stage 3 starts at 3 times baseline

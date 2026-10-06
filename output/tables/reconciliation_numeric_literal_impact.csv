@@ -1,0 +1,6 @@
+scenario,creatinine_draws,draws_with_any_difference,max_abs_difference,threshold_flips,stage_flips
+calibrated,98335,98335,1.98951966012828e-13,0,0
+model_complete,161277,161277,1.98951966012828e-13,0,0
+raw,161277,161277,1.98951966012828e-13,0,0
+sens_egfr_sd10,98335,98335,1.98951966012828e-13,0,0
+sens_egfr_sd20,98335,98335,2.1316282072803e-13,0,0

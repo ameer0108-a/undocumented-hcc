@@ -1,0 +1,7 @@
+check_name,n,pct_flagged,flag
+HbA1c draws in true diabetics,60267,56,below 4.0 percent (not physiologically plausible)
+HbA1c draws in true diabetics,60267,6,at or above 6.5 percent
+Creatinine draws at hyperlipidemia or colon cancer follow-ups,13629,100,hard-coded 2.5 to 3.5 mg/dL
+Creatinine draws in patients with no CKD code,38921,31.5,at or above 2.5 mg/dL
+Creatinine draws in patients coded CKD stage 1 or 2,39137,99,imply eGFR under 60 even for a 75 year old man
+Patients with a kidney code labeled due to diabetes,7945,50.3,"have no diabetes diagnosis (n counts patients, not draws)"

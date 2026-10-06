@@ -1,0 +1,3 @@
+scope,n_records,n_mapped_icd10,pct_mapped_icd10,n_mapped_hcc,pct_mapped_hcc,n_concepts,n_concepts_unmapped
+chronic disorder records,146394,146394,100,39461,26.96,102,0
+all disorder records,415918,415918,100,44421,10.68,186,0

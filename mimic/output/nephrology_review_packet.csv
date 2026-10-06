@@ -1,0 +1,6 @@
+subject_id,gender,anchor_age,n_low_egfr_values,days_between_first_and_last_low,lowest_egfr,median_low_egfr,last_outpatient_egfr,albuminuria,rule_suggested_stage,aki_codes_in_record,reviewer_ckd_present,reviewer_stage,reviewer_reason_if_no,reviewer_initials
+10017492,M,84,10,837,20.4,35.3,20.4,FALSE,G3b,5849,"","","",""
+10018081,M,79,55,235,8.6,22.1,76.1,FALSE,G4 or worse,5845,"","","",""
+10019003,F,65,99,2555,15,53.4,36.8,FALSE,G3a,N179,"","","",""
+10020306,F,74,24,265,17.3,38.3,50.8,FALSE,G3b,N170,"","","",""
+10023239,F,29,11,1389,43.7,51.3,68,FALSE,G3a,N179,"","","",""

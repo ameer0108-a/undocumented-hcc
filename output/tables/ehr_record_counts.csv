@@ -1,0 +1,14 @@
+tbl,n
+patient,20000
+encounter,2117917
+condition,1454783
+observation,40639816
+medication,2887957
+procedure,6579705
+immunization,266906
+careplan,91651
+allergy,7951
+device,247137
+supply,1144856
+imaging_study,386088
+TOTAL,55844767
